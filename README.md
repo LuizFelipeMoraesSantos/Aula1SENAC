@@ -21,5 +21,6 @@ permitindo o acesso e a modificação independente.
 O GitHub utiliza **Markdown** para formatar o texto em arquivos README.
 Essa linguagem de marcação simples permite adicionar estilos como *negrito*,
 _itálico_, e > citação ao texto.
-A criação de repositórios e sua integração com ferramentas como o VSCode facilitam o desenvolvimento de projetos em diversas linguagens.
+A criação de repositórios e sua integração com ferramentas como
+o VSCode facilitam o desenvolvimento de projetos em diversas linguagens.
 ```
