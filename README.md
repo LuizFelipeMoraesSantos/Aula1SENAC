@@ -2,8 +2,10 @@
 
 ##Github
 ```
-O GitHub é uma plataforma para armazenar, compartilhar e colaborar em projetos de programação, funcionando como uma rede social para desenvolvedores. Ao criar um perfil, o usuário pode criar
-**repositórios**, que são pastas onde o código é versionado e acompanhado, permitindo o trabalho colaborativo.
+O GitHub é uma plataforma para armazenar, compartilhar e colaborar em projetos de programação,
+funcionando como uma rede social para desenvolvedores. Ao criar um perfil,
+o usuário pode criar**repositórios**,que são pastas onde o código é versionado e acompanhado,
+permitindo o trabalho colaborativo.
  Os repositórios podem ser públicos ou privados, e incluem um arquivo **README**,
  que contém informações sobre o projeto ou o perfil do usuário.
 ```
